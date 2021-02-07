@@ -1,6 +1,4 @@
-#include <ctime>
-#include <iostream>
-#include <unordered_map>
+#include<bits/stdc++.h>
 using namespace std;
 
 struct custom_hash {
