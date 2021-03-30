@@ -52,19 +52,8 @@ class queue{
 		cout<<endl;
 	}
 };
+
 int main()
 {
-	queue q;
-	q.insert(1);
-	q.insert(2);
-	q.insert(3);
-	q.print();
-	q.pop();
-	q.print();
-	q.pop();
-	q.pop();
-	q.print();
-	q.insert(2);
-	q.print();
-	return 0;
+	
 }
