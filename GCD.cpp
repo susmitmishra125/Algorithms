@@ -26,5 +26,6 @@ int main()
     cin>>n>>m;
     cout<<"GCD is "<<gcd(n,m)<<endl;
     cout<<"lcm is "<<lcm(n,m)<<endl;
-    
+    // note the stl fuction for gcd is __gcd(a,b)
+
 }
